@@ -1,0 +1,24 @@
+{
+  "name": "content_creation",
+  "version": "1.0.0",
+  "description": "Implementation of content creation subsystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/agustindaguerre/content_creation.git"
+  },
+  "author": "agustindaguerre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agustindaguerre/content_creation/issues"
+  },
+  "homepage": "https://github.com/agustindaguerre/content_creation#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.0"
+  }
+}
